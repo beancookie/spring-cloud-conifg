@@ -1,11 +1,11 @@
 spider:
-  startUrls:
-    - https://list.jd.com/list.html?cat=9987,653,655
-    - https://list.jd.com/list.html?cat=652,654
-    - https://list.jd.com/list.html?cat=652,828,842
-    - https://list.jd.com/list.html?cat=670,699,700
-    - https://list.jd.com/list.html?cat=670,699,11304
-    - https://list.jd.com/list.html?cat=670,671,672
+#   startUrls:
+#     - https://list.jd.com/list.html?cat=9987,653,655
+#     - https://list.jd.com/list.html?cat=652,654
+#     - https://list.jd.com/list.html?cat=652,828,842
+#     - https://list.jd.com/list.html?cat=670,699,700
+#     - https://list.jd.com/list.html?cat=670,699,11304
+#     - https://list.jd.com/list.html?cat=670,671,672
   thread: 10
   retryTimes: 2
   timeOut: 3000
