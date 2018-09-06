@@ -9,4 +9,4 @@ spider:
   thread: 10
   retry-times: 2
   time-out: 3000
-  sleet-time: 2000 
+  sleep-time: 2000 
