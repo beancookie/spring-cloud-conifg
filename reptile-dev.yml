@@ -6,7 +6,7 @@ spider:
     - https://list.jd.com/list.html?cat=670,699,700
     - https://list.jd.com/list.html?cat=670,699,11304
     - https://list.jd.com/list.html?cat=670,671,672
-  thread: 10
+  thread: 5
   retry-times: 2
   time-out: 3000
   sleep-time: 2000 
