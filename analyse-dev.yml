@@ -3,3 +3,6 @@ spark:
   spark-driver-host: localhost
   spark-mongodb-input-uri: mongodb://127.0.0.1/shop_around.jd_commodity
   spark-mongodb-output-uri: mongodb://127.0.0.1/shop_around.jd_commodity
+  rank-umber: 20
+  rank-days:
+    - 1
