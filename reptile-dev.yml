@@ -9,6 +9,6 @@ spider:
   thread: 5
   retry-times: 2
   time-out: 3000
-  sleep-time: 2000 
+  sleep-time: 10000 
 price-url: https://p.3.cn/prices/mgets?skuIds=
 shop-url: https://rms.shop.jd.com/json/pop/shopInfo.action?ids=
