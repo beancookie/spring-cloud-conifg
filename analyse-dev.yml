@@ -6,6 +6,6 @@ spark:
   rank-number: 20
   rank-days:
     - 1
-    - 2
+    - 3
     - 7
     - 30
