@@ -1,8 +1,8 @@
 zuul:
   routes:
-    analyse:
-      path: /analyse/**
-      serviceId: analyse
+    # analyse:
+      # path: /analyse/**
+      # serviceId: analyse
     reptile:
       path: /reptile/**
       serviceId: reptile
