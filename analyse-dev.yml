@@ -1,8 +1,8 @@
 spark:
   hadoop-home-dir: /usr/local/Cellar/hadoop/3.1.1/libexec
   spark-driver-host: localhost
-  spark-mongodb-input-uri: mongodb://mongo/shop_around.jd_commodity
-  spark-mongodb-output-uri: mongodb://mongo/shop_around.jd_commodity
+  spark-mongodb-input-uri: mongodb://localhost/shop_around.jd_commodity
+  spark-mongodb-output-uri: mongodb://localhost/shop_around.jd_commodity
   rank-number: 20
   rank-days:
     - 1
