@@ -8,4 +8,4 @@ zuul:
       serviceId: reptile
     web:
       path: /web/**
-      serviceId: reptile
+      serviceId: web
