@@ -6,3 +6,6 @@ zuul:
     reptile:
       path: /reptile/**
       serviceId: reptile
+    web:
+      path: /web/**
+      serviceId: reptile
